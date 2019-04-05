@@ -1,5 +1,5 @@
 ### Clone
-clone repository `git clone https://github.com/Haposan12/gigel-test.git`
+clone repository `git clone https://github.com/Haposan12/gigelTest.git`
 
 ### Install and Prepare
 Please run `composer install` and `npm install`
